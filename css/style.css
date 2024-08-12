@@ -1,6 +1,14 @@
 .link_icon{
-    padding:40px;
+    padding:20px;
 }
 .backdrop-blur {
     backdrop-filter: blur(5px);
   }
+.content {
+    position: relative;
+    z-index: 1;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.182);
+    padding: 20px;
+    border-radius: 10px;
+}
