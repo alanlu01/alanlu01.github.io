@@ -8,7 +8,7 @@
     position: relative;
     z-index: 1;
     backdrop-filter: blur(10px);
-    background: rgba(255, 255, 255, 0.182);
+    background: rgba(50, 50, 50, 0.733);
     padding: 20px;
     border-radius: 10px;
 }
